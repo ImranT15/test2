@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "sulayman1"
+echo "sulayman2"
 echo "df -h"
